@@ -108,6 +108,7 @@ return (
                 </div>
                 <div className="col-10 col-md-9 my-md-4">
                   <p className="question_title">{question.title}</p>
+                  <p className="question_title">{question.description}</p>
                 </div>
                 <div className="col-2 col-md-1">
                   <div className="next_arrow">
